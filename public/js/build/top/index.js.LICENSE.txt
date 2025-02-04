@@ -1,0 +1,83 @@
+/*! #__NO_SIDE_EFFECTS__ */
+
+/*! @vue/compiler-core */
+
+/*! @vue/compiler-dom */
+
+/*! @vue/reactivity */
+
+/*! @vue/runtime-core */
+
+/*! @vue/runtime-dom */
+
+/*! @vue/shared */
+
+/*! vue */
+
+/*!***********************************!*\
+  !*** ./resources/js/top/index.js ***!
+  \***********************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/vue/dist/vue.esm-bundler.js ***!
+  \**************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/@vue/shared/dist/shared.esm-bundler.js ***!
+  \*************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js ***!
+  \*********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js ***!
+  \***********************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/@vue/compiler-dom/dist/compiler-dom.esm-bundler.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js ***!
+  \*************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./node_modules/@vue/compiler-core/dist/compiler-core.esm-bundler.js ***!
+  \***************************************************************************/
+
+/**
+* @vue/compiler-core v3.5.13
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/compiler-dom v3.5.13
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/reactivity v3.5.13
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/runtime-core v3.5.13
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/runtime-dom v3.5.13
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+/**
+* @vue/shared v3.5.13
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
